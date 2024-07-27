@@ -80,5 +80,5 @@ This script extends the analysis by incorporating edge weighting schemes based o
 ---
 
 **Summary:**
-- **Code 1** focuses on comparing different graph embedding techniques and their combinations for effective clustering.
-- **Code 2** investigates the effect of various edge weighting schemes on embedding quality and clustering results.
+- **Comparison 1** focuses on comparing different graph embedding techniques and their combinations for effective clustering.
+- **Comparison 2** investigates the effect of various edge weighting schemes on embedding quality and clustering results.
